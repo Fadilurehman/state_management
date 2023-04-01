@@ -70,7 +70,7 @@ class AddStudent extends StatelessWidget {
                 Padding(
                   padding: const EdgeInsets.all(8.0),
                   child: TextFormField(
-                    maxLength: 2,
+                    maxLength: 10,
                     controller: provider.classStudentController,
                     decoration: const InputDecoration(
                       hintText: 'class',
