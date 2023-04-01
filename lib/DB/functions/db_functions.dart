@@ -8,7 +8,7 @@ ValueNotifier<List<StudentModel>> studentList = ValueNotifier([]);
 
 // functions to add student model
 
-// button click
+// button clicked
 
 Future<void> addStudent(StudentModel value) async {
   // open box
