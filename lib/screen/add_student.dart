@@ -201,6 +201,6 @@ class AddStudent extends StatelessWidget {
 
     providers.addStudent(student);
     providers.fileimage = null;
-    log('data added success');
+    // log('data added success');
   }
 }
