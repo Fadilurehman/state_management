@@ -1,8 +1,8 @@
 import 'dart:io';
 import 'package:flutter/material.dart';
 import 'package:flutter_application_1/controller/provider/student_provider.dart';
-import 'package:flutter_application_1/screen/editStudents.dart';
-import 'package:flutter_application_1/screen/mainScreen.dart';
+import 'package:flutter_application_1/screen/edit_students.dart';
+import 'package:flutter_application_1/screen/main_screen.dart';
 import 'package:provider/provider.dart';
 
 class EditListView extends StatelessWidget {

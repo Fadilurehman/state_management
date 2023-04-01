@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:flutter_application_1/DB/model/model_dart.dart';
 import 'package:flutter_application_1/controller/provider/student_provider.dart';
 import 'package:flutter_application_1/screen/widgets/editstudent.dart';
-
 import 'package:provider/provider.dart';
 
 class EditStudent extends StatelessWidget {

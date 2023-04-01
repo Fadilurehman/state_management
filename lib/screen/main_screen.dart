@@ -1,11 +1,10 @@
 import 'dart:io';
 import 'package:flutter/material.dart';
-import 'package:flutter_application_1/DB/functions/db_functions.dart';
 import 'package:flutter_application_1/controller/provider/student_provider.dart';
-import 'package:flutter_application_1/screen/addStudent.dart';
-import 'package:flutter_application_1/screen/editStudents.dart';
-import 'package:flutter_application_1/screen/fullList.dart';
-import 'package:flutter_application_1/screen/searchScreen.dart';
+import 'package:flutter_application_1/screen/add_student.dart';
+import 'package:flutter_application_1/screen/edit_students.dart';
+import 'package:flutter_application_1/screen/full_list.dart';
+import 'package:flutter_application_1/screen/search_screen.dart';
 import 'package:provider/provider.dart';
 
 class MainScreen extends StatelessWidget {

@@ -3,9 +3,9 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_application_1/controller/provider/student_provider.dart';
 
-import 'package:flutter_application_1/screen/editStudents.dart';
+import 'package:flutter_application_1/screen/edit_students.dart';
 
-import 'package:flutter_application_1/screen/fullList.dart';
+import 'package:flutter_application_1/screen/full_list.dart';
 
 import 'package:provider/provider.dart';
 
